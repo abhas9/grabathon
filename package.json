@@ -1,0 +1,19 @@
+{
+  "name": "grabathon",
+  "version": "1.0.0",
+  "description": "Hackathon Problem",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.2.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "grabhouse"
+  ],
+  "author": "abhas tandon",
+  "license": "ISC"
+}
